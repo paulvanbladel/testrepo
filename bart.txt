@@ -1,3 +1,3 @@
 dit is de eerste lijn van bart.
 de designer voegt een lijntje toe.
-wezelf voegen ook lijn 3 toe.
+de designer voegt lijn 3 toe.
